@@ -1,0 +1,8 @@
+javac Book.java
+javac -cp json-20220924.jar;. BookSearch.java
+javac BookService.java
+javac MockBookService.java
+
+javac -cp junit-4.12.jar;. ClasseDeTeste.java
+javac -cp json-20220924.jar;. ClasseDeTeste.java
+
